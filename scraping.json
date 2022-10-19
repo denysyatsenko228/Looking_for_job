@@ -1,0 +1,55 @@
+[
+{
+  "model": "scraping.city",
+  "pk": 1,
+  "fields": {
+    "name": "\u041a\u043e\u043d\u043e\u0442\u043e\u043f",
+    "slug": "Konotop"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 2,
+  "fields": {
+    "name": "\u041e\u0434\u0435\u0441\u0441\u0430",
+    "slug": "odessa"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 3,
+  "fields": {
+    "name": "\u0425\u0430\u0440\u044c\u043a\u043e\u0432",
+    "slug": "harkov"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": "Python"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 2,
+  "fields": {
+    "name": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 1,
+  "fields": {
+    "url": "https://jobs.dou.ua/companies/squad/vacancies/43411/?from=list_hot",
+    "title": "Software Development Engineer in Test (Python)",
+    "company": "SQUAD",
+    "description": "Job Summary\r\nWe are looking for someone to join our team to work on testing automation systems for all of our existing devices and those in development. You will be assigned to a specific device family among our extensive volume of test devices to consistently support and raise the quality bar.\r\n\r\nResponsibilities and Duties\r\n\u2014 Test framework development using Python 3.7 (back-end mock services development, device HAL development and support, test-lib development and support of wrappers for: wifi, uart, ssh, relay controller, network emulator, ALS, power measurement etc.)\r\n\u2014 Functional test case development for firmware\r\n\u2014 Release test execution & analysis, as well as raising/verifying issues and decision making according to release criteria\r\n\r\nQualifications and Skills\r\n\u2014 Strong Python knowledge\r\n\u2014 Experience with Linux systems\r\n\u2014 Strong CS fundamentals (data structures, algorithms, design patterns, etc.)\r\n\u2014 Other scripting languages experience (e.g. bash, groovy) is an asset\r\n\u2014 Experience in writing development support tools such as parsers, profilers, data visualization tools etc.\r\n\u2014 Understanding the DevOps and CI tools (Jenkins, Gerrit, GitLab)\r\n\u2014 Understanding the classic test pyramid\r\n\u2014 Good written and spoken English\r\n\r\nNice to have\r\n\u2014 Experience with Raspberry Pi / Arduino\r\n\u2014 Experience in embedded SW development\r\n\u2014 Experience with 802.11 protocols\r\n\u2014 Experience with audio/video data streaming\r\n\r\nWe offer multiple benefits that include\r\n\u2014 Working on impactful security products and the opportunity to use them personally\r\n\u2014 Competitive salary and perks\r\n\u2014 PE accounting and support\r\n\u2014 WFH and remote working mode possibility. Partial furniture compensation\r\n\u2014 Social package, including medical insurance available from the start date and sports compensation after the trial period\r\n\u2014 21 paid vacation days per year, paid public holidays according to the Ukrainian legislation\r\n\u2014 Educational possibilities like corporate courses, knowledge hubs, and free English classes. Semiannual performance review\r\n\u2014 Free meals, fruits, and snacks when working in the office.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2022-09-09"
+  }
+}
+]
